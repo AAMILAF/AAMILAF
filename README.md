@@ -1,28 +1,20 @@
-<div align="center">
-<img src="header.png" width="100%" alt="Developer banner">
-
-# AAMILA FATHIMA M
-
-### Software Developer · Full-Stack Developer · AI/ML · Cybersecurity
-
-<br>
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=55&lines=Building+secure+and+intelligent+applications;Full-Stack+Development+%7C+Python+%7C+AI%2FML;Cybersecurity+%7C+Cloud+Security;Build+%E2%80%A2+Test+%E2%80%A2+Improve+%E2%80%A2+Secure" alt="Typing SVG">
-</a>
-<p>
-<a href="https://github.com/AAMILAF">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/in/aamila-fathima-m-652887273">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="https://github.com/AAMILAF?tab=repositories">
-<img src="https://img.shields.io/badge/Projects-7C3AED?style=for-the-badge&logo=github&logoColor=white">
-</a>
+<p align="center">
+  <img src="assets/header.svg" width="100%" alt="Aamila Fathima M - Software Developer">
 </p>
 
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/aamila-fathima-m-652887273">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A" alt="LinkedIn">
+  </a>
+  &nbsp;
+  <a href="https://github.com/AAMILAF?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-Explore-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A" alt="Projects">
+  </a>
+  &nbsp;
+  <a href="https://github.com/AAMILAF">
+    <img src="https://img.shields.io/badge/GitHub-Follow-06B6D4?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A" alt="GitHub">
+  </a>
+</p>
 
 ## 👩‍💻 About Me
 
